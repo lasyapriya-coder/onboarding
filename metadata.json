@@ -1,0 +1,5 @@
+{
+  "name": "Sequence Onboarding",
+  "description": "A multi-step merchant onboarding interface with form validation and progress tracking.",
+  "requestFramePermissions": []
+}
